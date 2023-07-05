@@ -1,0 +1,36 @@
+# Garbage Data Files
+.DS_Store
+*/.DS_Store
+
+# Incomplete READMEs
+P2-Intro-to-React/README.md
+P3-Intro-to-Python/README.md
+P4-Intro-to-Flask/README.md
+P5-Full-Stack-Capstone/README.md
+
+# Incomplete Glossaries
+P2-Intro-to-React/GLOSSARY.md
+P3-Intro-to-Python/GLOSSARY.md
+P4-Intro-to-Flask/GLOSSARY.md
+P5-Full-Stack-Capstone/GLOSSARY.md
+
+# Incomplete FAQs
+P1-Intro-to-JS/FAQ.md
+P2-Intro-to-React/FAQ.md
+P3-Intro-to-Python/FAQ.md
+P4-Intro-to-Flask/FAQ.md
+P5-Full-Stack-Capstone/FAQ.md
+
+# Incomplete Resource Compilations
+P1-Intro-to-JS/RESOURCES.md
+P2-Intro-to-React/RESOURCES.md
+P3-Intro-to-Python/RESOURCES.md
+P4-Intro-to-Flask/RESOURCES.md
+P5-Full-Stack-Capstone/RESOURCES.md
+
+# Incomplete Tips & Tricks
+P1-Intro-to-JS/TIPS.md
+P2-Intro-to-React/TIPS.md
+P3-Intro-to-Python/TIPS.md
+P4-Intro-to-Flask/TIPS.md
+P5-Full-Stack-Capstone/TIPS.md
