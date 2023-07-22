@@ -9,7 +9,7 @@
 <h1 align="center"><b>The Vault</b></h1>
 <h4 align="center">For students of Cohort <b>SE-NYC-061223</b>.</h4>
 
-## Summary
+## 👋🏽 Summary 🌟
 
 This is the single-source-of-truth for information, tips/tricks, documentation, tutorials, practice coding challenges, and other useful resources for SE-NYC-061223 cohort students at Flatiron School. 
 
@@ -28,4 +28,4 @@ To get access to this repository version in an optimal way, you're encouraged to
 
 ## Credits
 
-The **SE-NYC-061223 Vault** is created and maintained by **Aakash "Kash" Sudhakar** and **Daniel Gaston** (2023). 
+The **SE-NYC-061223 Vault** is created and maintained by **Aakash "Kash" Sudhakar**, **Daniel Gaston**, and **Sakib Rasul**. (2023). 
